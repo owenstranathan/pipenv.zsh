@@ -13,9 +13,9 @@ to install just clone this project into your `$ZSH_CUSTOM/plugins` directory
 
 `git clone https://github.com/owenstranathan/pipenv.zsh.git $ZSH_CUSTOM/plugins/pipenv`
 
-and then add this plugin to you `plugins` array in `~/.zshrc`
+and then add this plugin to your `plugins` array in `~/.zshrc`
 
-`plugins+=(pipen)`
+`plugins+=(pipenv)`
 
 ## FYI
 
