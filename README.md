@@ -7,6 +7,16 @@ It automatically activates a pipenv when entering a directory if there is Pipfil
 
 It also turns on pipenv tab completion
 
+## Install
+
+to install just clone this project into your `$ZSH_CUSTOM/plugins` directory
+
+`git clone https://github.com/owenstranathan/pipenv.zsh.git $ZSH_CUSTOM/plugins/pipenv`
+
+and then add this plugin to you `plugins` array in `~/.zshrc`
+
+`plugins+=(pipen)`
+
 ## FYI
 
 if you don't want zsh to shadow the virtualenv flair on your prompt you'll need to use this plugin 
